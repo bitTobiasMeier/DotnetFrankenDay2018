@@ -1,1 +1,1 @@
-# DotnetFrankenDay2018
+# DotnetFrankenDay2018 Service Fabric Demo
